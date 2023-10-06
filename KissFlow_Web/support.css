@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "calibri";
+}
+/*navbar*/
+.navbar{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(227, 240, 248);  
+}
+.main{
+    margin-left: 1100px;
+}
+.mainglobal{
+    display: flex;
+    float: right;
+}
+.global img{
+    height: 20px;
+    margin-bottom: 5px;
+}
+.en p{
+    margin-left: 5px;
+}
+.sub a{
+    color: black;
+    text-decoration: none;
+    list-style: none;
+}
+.sub p{
+    margin-left: 20px;
+    text-decoration: none;
+}
+.signup{
+    display: flex;
+}
+.sign img{
+    margin-left: 20px;
+    height: 20px;
+}
+.up a{
+    
+    color: black;
+    text-decoration: none;
+    list-style: none;
+}
+.up p{
+    margin-left: 5px;
+    text-decoration: none;
+}
+a:hover p{
+    color: rgb(77, 103, 218);
+}
+/*sub navbar */
+.subnav{
+    width: 100%;
+    height: 90px;
+    background-color: whitesmoke;
+}
+.right{
+    display: flex;
+}
+.kflow img{
+    margin-left: 30px;
+    height: 100px;
+    width: 750%;
+    margin-bottom: 50px;
+}
+.rigword{
+    display: flex;
+    margin-top: 35px;
+    margin-right: 800px;
+}
+.rigword p{
+    font-size: 20px;
+}
+.plat p{
+    margin-left: 250px;
+    margin-right: 20px;
+}
+.res p{
+    margin-left: 20px;
+}
+.app p{
+    margin-left: 20px;
+}
+.pri p{
+    margin-left: 20px;
+}
+
+.navbut button{
+	width: 30%;
+	height: 35px;
+	border-radius: 10px;
+	font-size: 16px;
+	font-weight: 600;
+    margin-left: 400px;
+	border-color:#0565ff;
+	background:#0565ff;
+	color:white;
+}
+.body h1{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 70px;
+    color: purple;
+}
+.body p{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+/*main*/
+.submain{
+    display: flex;
+}
+.cont1{
+    width: 100%;
+    height: 500px;
+    margin-right: 800px;
+    background-color: #fff;
+}
+.cont2{
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+}
+.cont3{
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+}
+.cont4{
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+}
+
